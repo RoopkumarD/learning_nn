@@ -1,5 +1,7 @@
 Code while learning about how to create neural network
 
+[Book Link](http://neuralnetworksanddeeplearning.com/)
+
 Maybe helpful when writing stories
 
 # In `overfit.py`
