@@ -3,3 +3,6 @@ __pycache__/
 *.png
 *.pkl
 *.csv
+
+# file where i try function to understand how it works
+check.py
